@@ -1,0 +1,27 @@
+
+
+.datamh{
+	border-collapse: collapse;
+    width: 100%;
+}
+
+.datamh td, .datamh th{
+	border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.datamh tr:nth-child(even){
+	background-color: #d6d6d6;
+}
+
+.datamh th{
+	padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #50a079;
+    color: white;
+}
+
+.datamh tr:hover{
+	background-color: #969696;
+}
