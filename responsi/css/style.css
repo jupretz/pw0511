@@ -1,0 +1,161 @@
+.topheader{
+	width: 100%;
+	height: 150px;
+	margin-bottom: 20px;
+}
+
+.logo{
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+
+.logo img{
+	padding-left: 20px;
+	height: 100%;
+}
+
+.keterangan{
+	padding-left: 8px;
+	float: left;
+	width: 75%;
+	height: 100%;
+}
+
+.txtketerangan{
+	font-size: 18px;
+}
+
+.sosmed{
+	width: 20px;
+	margin-right: 5px;
+}
+
+table{
+	margin-left: 10%;
+}
+td{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.botheader{
+
+	width: 100%;
+	height: 125px;
+	background-image: url('../images/header-bg.jpg');
+	/*background-color: black;*/
+	margin-bottom: 20px;
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+}
+
+.welcome{
+	font-family: 'Merriweather', serif;
+}
+
+.nice{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.container{
+	width: 100%;
+	height: 450px;
+	background-color: #dbdbdb;
+	padding-top: 20px;
+}
+.konten{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+.img-left, .img-mid, .img-right{
+	display: block;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	padding-top: 10px;
+}
+
+.left{
+	background-color: white;
+	float: left;
+	width: 30%;
+	height: 270px;
+	margin-left: 2%;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.mid{
+	background-color: white;
+	float: left;
+	width: 30%;
+	height: 270px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.right{
+	background-color: white;
+	float: left;
+	width: 30%;
+	height: 270px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.desc{
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	
+}
+
+.footer{
+	color: white;
+	padding-top: 15px;
+	text-align: center;
+	width: 100%;
+	height: 250px;
+	background-color: #686767;
+	margin: auto;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+.submit{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.result{
+	width: 80%;
+	height: 40px;
+	text-align: center;
+	color: transparent;
+	order: none;
+	text-shadow: 0 0 0 gray;
+	
+
+
+}
+
+.result:focus {
+    outline: none;
+}
+
